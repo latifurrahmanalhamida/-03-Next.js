@@ -37,6 +37,23 @@ Hasilnya <br>
 ![image](https://github.com/user-attachments/assets/9af54138-0973-41a6-bab7-44765965602c)  <br>
 ![image](https://github.com/user-attachments/assets/1e8d58c9-7c28-4b88-9fe3-10fcb23e1318) <br>
 
+---TUGAS---
+1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users. <br>
+![image](https://github.com/user-attachments/assets/89acc693-699d-4cbe-ab0d-022cc4dd2961) <br>
+![image](https://github.com/user-attachments/assets/f26e105a-d24f-4201-bf17-c1c4c33eb0a4)  <br>
+
+2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID. <br>
+![image](https://github.com/user-attachments/assets/00bd223a-a406-4dd2-9d15-e224980340cc)  <br>
+![image](https://github.com/user-attachments/assets/5df85043-05ad-40e9-8a01-bc09e3d3a9a4) <br> ![image](https://github.com/user-attachments/assets/2627a728-1515-4d69-a24a-1ae00a6d1c3b) <br>
+![image](https://github.com/user-attachments/assets/b817c708-5501-4946-840c-3a431e1fbb40) <br>
+
+3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end. <br> 
+
+
+
+
+
+
 
 
 

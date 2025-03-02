@@ -47,7 +47,18 @@ Hasilnya <br>
 ![image](https://github.com/user-attachments/assets/5df85043-05ad-40e9-8a01-bc09e3d3a9a4) <br> ![image](https://github.com/user-attachments/assets/2627a728-1515-4d69-a24a-1ae00a6d1c3b) <br>
 ![image](https://github.com/user-attachments/assets/b817c708-5501-4946-840c-3a431e1fbb40) <br>
 
-3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end. <br> 
+3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end. <br>
+![image](https://github.com/user-attachments/assets/5085a198-bde3-4601-b0e0-27e3174b4ce2)  <br>
+![image](https://github.com/user-attachments/assets/6300258b-aea4-43f7-bba0-60ee62e42117)  <br>
+![image](https://github.com/user-attachments/assets/a8542a26-0c09-4622-b44d-babf59f38746)  <br>
+![image](https://github.com/user-attachments/assets/a320e12e-fd71-4910-b601-8e4eb88cf0e9)  <br>
+![image](https://github.com/user-attachments/assets/f6deec4c-5079-477d-bcad-00db629830e5)  <br>
+![image](https://github.com/user-attachments/assets/63324980-8a50-4740-a717-6f3246982ea8)  <br>
+
+
+
+
+
 
 
 
